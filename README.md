@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.tumblr.com/tagged/cinnamoroll%20gif" width="240"/>
+  <img src="https://64.media.tumblr.com/cfce6cab987ece50975e376fb718891e/6b2ada60d84444dc-9b/s500x750/1fb234aa609b2f692a2342db55e7c5ce68679123.gifv" width="240"/>
 </p>
 
 <p align="center">
