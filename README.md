@@ -85,19 +85,6 @@
 
 ---
 
-### 🌸 vibes
-
-```text
-         ☁️         ☁️
-    ☁️        ☁️
-        ∧,,,∧
-      ( ̳• · • ̳)
-      /    づ♡  i love making
-                  cute things work ♪
-```
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=capceino&show_icons=true&hide_border=true&bg_color=FFF5F9&title_color=A8D8F0&icon_color=C084FC&text_color=6B7280&ring_color=A8D8F0" width="450"/>
 </p>
