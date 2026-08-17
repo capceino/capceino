@@ -51,33 +51,33 @@
 <tr>
 <td align="center">
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-A8D8F0?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-A8D8F0?style=for-the-badge&logo=react&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-A8D8F0?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-A8D8F0?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </td>
 <td align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A8D8F0?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-A8D8F0?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A8D8F0?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-A8D8F0?style=for-the-badge&logo=typescript&logoColor=white)
 
 </td>
 <td align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-A8D8F0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-A8D8F0?style=for-the-badge&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-A8D8F0?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-A8D8F0?style=for-the-badge&logo=netlify&logoColor=white)
 
 </td>
 <td align="center">
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-A8D8F0?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A8D8F0?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-A8D8F0?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
 </tr>
@@ -99,11 +99,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capceino&show_icons=true&theme=jolly&hide_border=true&bg_color=FFF5F9&title_color=FF6B9D&icon_color=C084FC&text_color=6B7280" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=capceino&show_icons=true&hide_border=true&bg_color=FFF5F9&title_color=A8D8F0&icon_color=C084FC&text_color=6B7280&ring_color=A8D8F0" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=capceino&theme=jolly&hide_border=true&background=FFF5F9&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" width="450"/>
+  <img src="https://streak-stats.demolab.com/?user=capceino&hide_border=true&background=FFF5F9&ring=A8D8F0&fire=FFB6C1&currStreakLabel=A8D8F0&sideLabels=A8D8F0&currStreakNum=6B7280&sideNums=6B7280&dates=C084FC" width="450"/>
 </p>
 
 ---
