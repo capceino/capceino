@@ -1,9 +1,9 @@
 <h1 align="center">
-  ꒰ᐢ. .ᐢ꒱ ₊˚⊹ hi there, i'm jacob! ⊹˚₊ ꒰ᐢ. .ᐢ꒱
+  ꒰ᐢ. .ᐢ꒱ ₊˚⊹ hi there, i'm ceino! ⊹˚₊ ꒰ᐢ. .ᐢ꒱
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/o0JqY89wfQUU/giphy.gif" width="120"/>
 </p>
 
 <p align="center">
@@ -42,6 +42,11 @@
 **🎀 deployment**
 
 </td>
+<td align="center" width="200">
+
+**🩵 databases**
+
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -68,18 +73,15 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </td>
-</tr>
-</table>
-
-<p align="center">
-
-**🩵 databases**
+<td align="center">
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
